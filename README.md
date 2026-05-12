@@ -37,6 +37,11 @@ Fitur utama:
 ### Submit Tugas
 ![Submit Tugas](screenshots/submit_tugas.png)
 
+### Submit Tugas
+![konfirmasi submit](screenshots/konfirmasi_submit.png)
+
+### Submit Tugas berhasil
+![setelah submit](screenshots/setelah_submit.png)
 ---
 
 ## 🗂️ Struktur Project
