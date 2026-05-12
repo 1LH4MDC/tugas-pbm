@@ -42,20 +42,3 @@ Fitur utama:
 
 ### Submit Tugas berhasil
 ![setelah submit](screenshots/setelah_submit.png)
----
-
-## 🗂️ Struktur Project
-lib/
-├── main.dart
-├── models/
-│   ├── user_model.dart
-│   └── product_model.dart
-├── services/
-│   └── api_service.dart
-├── screens/
-│   ├── login_screen.dart
-│   ├── home_screen.dart
-│   ├── add_product_screen.dart
-│   └── submit_screen.dart
-└── utils/
-└── constants.dart
